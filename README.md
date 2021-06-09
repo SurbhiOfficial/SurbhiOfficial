@@ -8,7 +8,7 @@
   </head>
   <body>
 <ul>
-<li> <a href=":https://www.linkedin.com/in/surbhi- official-15a90a1b1/"></a>LinkedIn</li>
+<li> <a href="https://www.linkedin.com/in/surbhi- official-15a90a1b1/"></a>LinkedIn</li>
 <li> <a href="https://twitter.com/Surbhi32582033"></a>Twitter</li>
 </ul>
     <body>
