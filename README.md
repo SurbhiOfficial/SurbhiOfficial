@@ -2,8 +2,9 @@
 - 🌱 I’m currently learning React JS.
 - ✨ Believe in SmartWork.
 - 📫 How to reach me ≈
-- LinkedIn-> https://www.linkedin.com/in/surbhi-official-15a90a1b1/ 
-- Twitter->  https://twitter.com/Surbhi32582033 
+<a href="https://www.linkedin.com/in/surbhi-official-15a90a1b1/ ">LinkedIn</a>
+<a href="https://twitter.com/Surbhi32582033 ">Twitter</a>
+
 
 
 <!---
