@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurbhiOfficial
 - 🌱 I’m currently learning React JS.
 - ✨ Believe in SmartWork.
-- 📫 How to reach me ≈
+- 📫 
   <li><a href="https://www.linkedin.com/in/surbhi-official-15a90a1b1/ ">Me on LinkedIn</a></li>
   <li><a href="https://twitter.com/Surbhi32582033 ">Me on Twitter</a></li>
 
