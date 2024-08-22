@@ -3,7 +3,7 @@ Here! Surbhi Rani
 - My work in concentrated towards Use of Artificial Intelligence techniques in Health care Domain.
 - My Publications :
 <li><a href="https://link.springer.com/chapter/10.1007/978-981-99-4071-4_11">Explainable predictions for brain tumor diagnosis using inceptionV3 CNN architecture</a></li>
-<li><a href="https://doi.org/10.47852/bonviewJDSIS42022514"></a>CT-γ-Net: A Hybrid Model Based on Convolutional Encoder-Decoder and Transformer Encoder for Brain Tumor Localization</li>
+<li><a href="https://ojs.bonviewpress.com/index.php/jdsis/article/view/2514"></a>CT-γ-Net: A Hybrid Model Based on Convolutional Encoder-Decoder and Transformer Encoder for Brain Tumor Localization</li>
 
 
 
