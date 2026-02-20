@@ -6,7 +6,8 @@ Here! Surbhi Rani
 <li><a href="https://ojs.bonviewpress.com/index.php/jdsis/article/view/2514">CT-γ-Net: A Hybrid Model Based on Convolutional Encoder-Decoder and Transformer Encoder for Brain Tumor Localization</a></li>
 <li><a href="[https://ojs.bonviewpress.com/index.php/jdsis/article/view/2514](https://www.sciencedirect.com/science/article/pii/S0169260724005467)">EpiBrCan-Lite: A lightweight deep learning model for breast cancer subtype classification using epigenomic data</a></li>
 and many more... 
-You can find all my research articles on Google Scholar: https://scholar.google.com/citations?user=_W1iwokAAAAJ&hl=en&oi=ao
+You can find all my research articles on Google Scholar:
+https://scholar.google.com/citations?user=_W1iwokAAAAJ&hl=en&oi=ao
 
 
 
